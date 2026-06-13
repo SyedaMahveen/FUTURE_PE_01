@@ -27,14 +27,6 @@ To generate professional website copy for a local business using AI-powered prom
 * CTA Content
 * Prompt Documentation
 
-## Repository Structure
-
-FUTURE_PE_01/
-├── README.md
-├── homepage_copy.md
-├── services_page.md
-├── cta_content.md
-└── prompt_logic.md
 
 ## Author
 
